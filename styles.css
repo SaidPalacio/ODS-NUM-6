@@ -25,6 +25,13 @@ h1{
     
 }
 
+.imagen4 {
+    margin-top: -200px;
+    text-align: center;
+    margin-left: 90px;
+   
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -95,6 +102,17 @@ nav a:hover {
     margin: 0 auto;
     padding: 20px;
     margin-top: -740px;
+    margin-bottom: 400px;
+    margin-left: 990px;
+    margin-right: 400px;
+    
+}
+
+.main-content_3 {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: -310px;
     margin-bottom: 400px;
     margin-left: 990px;
     margin-right: 400px;
