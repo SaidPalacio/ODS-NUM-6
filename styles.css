@@ -12,6 +12,14 @@ h1{
     margin-top: 200px;
 }
 
+h3 {
+    margin-top: -200px;
+    text-align: center;
+    padding: auto;
+    font-size: 200%;
+
+}
+
 .imagen2 {
     margin-top: 50px;
     text-align: center;
@@ -30,6 +38,26 @@ h1{
     text-align: center;
     margin-left: 90px;
    
+}
+
+.imagen5 {
+    margin-top: 60px;
+    text-align: center;
+    margin-left: 600px;
+   
+}
+
+.imagen6 {
+    margin-top: -5000px;
+    text-align: center;
+    margin-left: 600px;
+   
+}
+
+.imagen7 {
+    margin-top: -100%;
+    text-align: center;
+    margin-left: 600px;
 }
 
 body {
@@ -117,6 +145,36 @@ nav a:hover {
     margin-left: 990px;
     margin-right: 400px;
     
+}
+
+.main-content_4 {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: -150px;
+    margin-bottom: 400px;
+    margin-left: 990px;
+    margin-right: 400px;
+}
+
+.main-content_5 {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: -225px;
+    margin-bottom: 400px;
+    margin-left: 990px;
+    margin-right: 400px;
+}
+
+.main-content_6 {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: -225px;
+    margin-bottom: 400px;
+    margin-left: 990px;
+    margin-right: 400px;
 }
 .article {
     background-color: #fff;
